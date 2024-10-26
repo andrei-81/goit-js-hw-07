@@ -1,0 +1,35 @@
+.task-body {
+    background-color: #FFFFFF;
+    width: 408px;
+    height: 136px;
+    margin: 100px auto;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+#name-input {
+    width: 360px;
+    height: 38px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    border-width: 1px;
+    border-color: #808080;
+    border-radius: 4px;
+    padding: 0 0 0 16px;
+}
+
+h1 {
+    margin: 0;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.04em;
+    text-align: left;
+}

@@ -1,0 +1,46 @@
+.widget {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    height: 80px;
+    width: 209px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 100px 68px;
+    margin: 100px auto;
+    align-items: center;
+}
+
+
+button {
+    width: 148px;
+    background: #4E75FF;
+    height: 40px;
+    border-width: 0;
+    padding: 8px 16px 8px 16px;
+    gap: 10px;
+    border-radius: 8px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+button:hover {
+    background: #6C8CFF;
+}
+
+p {
+    margin: 0;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    
+}
